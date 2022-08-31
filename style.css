@@ -216,7 +216,9 @@ section .title span a::after {
   animation: linkAfter 0.5s 1s ease both;
 }
 
-.home {}
+.home {
+  height: 100%;
+}
 
 @media only screen and (max-width: 800px) {
   .Homeimg {
@@ -656,7 +658,9 @@ hr {
   }
 }
 
-
+.Projects{
+  height: 100%;
+}
 .pro-all{
   align-items: center;
   width: 100%;
@@ -664,7 +668,7 @@ hr {
   color: white;
   padding-top: 1em;
   border: solid white;
-  height: 35em;
+  height: 50vh;
   margin-left: 2em;
   margin-right: 2em;
   
@@ -701,6 +705,8 @@ h5{
   padding-top: 2em;
   padding-left: 10em;
   padding-right: 10em;
+  padding-bottom: 2em;
   color: #ececec;
   font-size: 2em;
+  height: 100%;
 }
