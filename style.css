@@ -683,3 +683,24 @@ h4{
   margin-left: 0.2em;
   margin-right: 0.2em;
 }
+h5{
+  text-align: center;
+  margin: 0 auto;
+  padding: 40px 0;
+  font: 300 60px 'Oswald', sans-serif;
+  color: #fff;
+  background-color: black;
+  text-transform: uppercase;
+  letter-spacing: 6px;
+  border: solid white;
+  margin-left: 0.2em;
+  margin-right: 0.2em;
+}
+.About{
+ 
+  padding-top: 2em;
+  padding-left: 10em;
+  padding-right: 10em;
+  color: #ececec;
+  font-size: 2em;
+}
