@@ -219,6 +219,7 @@ img{
   width: 295px;
 }
 
+
 /*BUTTONS*/
 .button{
   display: inline-block;
@@ -298,6 +299,7 @@ img{
   width: 65%;
 }
 .skills__ux{
+  
   width: 85%;
 }
 .skills__cplusplus{
